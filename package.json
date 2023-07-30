@@ -1,14 +1,11 @@
 {
-  "author": "Christian Bromann <christian@saucelabs.com>",
-  "license": "MIT",
-  "name": "cucumber-boilerplate",
-  "version": "2.0.0",
-  "description": "Boilerplate project to run WebdriverIO tests with Cucumber",
+  "author": "Moumi Chanda",
+  "license": "Self",
+  "name": "wdio-first-project",
+  "version": "1.0.0",
+  "description": "My first project to run WebdriverIO tests with Cucumber",
   "homepage": "https://github.com/webdriverio/cucumber-boilerplate",
   "type": "module",
-  "contributors": [
-    "W. van Kuipers <github@pwnd.nl>"
-  ],
   "repository": {
     "type": "git",
     "getUrl": "https://github.com/webdriverio/cucumber-boilerplate.git"
