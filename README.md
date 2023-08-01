@@ -1,10 +1,4 @@
-Cucumber Boilerplate [![Test](https://github.com/webdriverio/cucumber-boilerplate/actions/workflows/test.yaml/badge.svg)](https://github.com/webdriverio/cucumber-boilerplate/actions/workflows/test.yaml)
-====================
-
-Boilerplate project to run WebdriverIO (alpha v8) tests with [Cucumber](https://cucumber.io/) and brings **true** [BDD](http://en.wikipedia.org/wiki/Behavior-driven_development) to JavaScript. Instead of writing complicated test code that only developers can understand, Cucumber maps an ordinary language to code and allows to start with the test process in the early stages of your product development.
-
-__Note:__ If you are still using an older WebdriverIO version, check out the [`v7`](https://github.com/webdriverio/cucumber-boilerplate/tree/v7) branch.
-
+This is the first github project
 ## Requirements
 
 - Node version 14 or higher
